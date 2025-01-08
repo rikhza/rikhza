@@ -30,17 +30,17 @@ Combining technical skills and innovative thinking, I aim to create scalable, ef
 
 ## 📂 Featured Projects
 
-### [Digital Tech Solutions](https://github.com/rikhza/digital-tech-solutions)
-- **Description**: End-to-end web solutions integrating scalable cloud architectures.
-- **Technologies Used**: React, AWS Lambda, DynamoDB
+### [Landing Page Highschool Bina Nusa Tara](https://github.com/rikhza/SMA-BinaNusaTara)
+- **Description**: -
+- **Technologies Used**: HTML, CSS, JS
 
-### [DevOps Pipeline Automation](https://github.com/rikhza/devops-pipeline-automation)
-- **Description**: Automation scripts and pipelines for CI/CD workflows in containerized environments.
-- **Technologies Used**: Kubernetes, Jenkins, Docker
+### [Java GUI Desktop App](https://github.com/rikhza/Project-JavaGUI-JKLaptop)
+- **Description**: -
+- **Technologies Used**: Java, MySQL
 
-### [Data Science Insights](https://github.com/rikhza/data-science-insights)
-- **Description**: Data visualization and machine learning models for actionable insights.
-- **Technologies Used**: Python, Pandas, TensorFlow
+### [Machine Learning Project](https://github.com/rikhza/Project-Machine-Learning)
+- **Description**: -
+- **Technologies Used**: Python, Pandas, TensorFlow, CNN
 
 ---
 

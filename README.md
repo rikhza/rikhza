@@ -60,7 +60,7 @@ Combining technical skills and innovative thinking, I aim to create scalable, ef
 
 - **Email**: rikhza11@gmail.com
 - **LinkedIn**: [Rikhza on LinkedIn](https://linkedin.com/in/rikhza)
-- **Portfolio**: [Personal Website]((https://rikhza.github.io/))
+- **Portfolio**: [Personal Website](https://rikhza.github.io/)
 
 ---
 

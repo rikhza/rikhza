@@ -26,18 +26,6 @@ Combining technical skills and innovative thinking, I aim to create scalable, ef
 ### Cloud Platforms:
 - AWS, Azure, Digital Ocean
 
-### Tools:
-- Git, VS Code, JIRA
-
-### Methodologies:
-- Agile, CI/CD
-
----
-
-## 📈 GitHub Stats
-
-![Rikhza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rikhza&show_icons=true&theme=radical)
-
 ---
 
 ## 📂 Featured Projects

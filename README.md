@@ -6,7 +6,7 @@ Combining technical skills and innovative thinking, I aim to create scalable, ef
 - 🎓 Master of Computer Science (MTI) candidate at Binus University  
 - 💼 IT Specialist at Bank Central Asia (BCA)  
 - 🏅 Linux+ & AWS Solutions Architect Certified  
-- 🛠️ Skilled in DevOps, Cloud Architecture, UI/UX for Web Development, and Data Science  
+- 🛠️ Skilled in Fullstack Development, DevOps, Cloud Architecture, UI/UX for Web Development, and Data Science  
 
 
 ## 🌐 Socials:

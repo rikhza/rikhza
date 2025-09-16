@@ -48,6 +48,5 @@ Combining technical skills and innovative thinking, I aim to create scalable, ef
 </details>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rikhza&theme=nord&hide_border=false&include_all_commits=true&count_private=true&hide=prs,issues,contribs)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rikhza&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 

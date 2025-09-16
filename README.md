@@ -23,11 +23,6 @@ Combining technical skills and innovative thinking, I aim to create scalable, ef
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![WebAssembly Rust](https://img.shields.io/badge/webassembly%20rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-<details>
-  <summary>🧰 See More</summary>
-
-<br/>
-
 ### 🗃️ Databases & Backend Tools
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)

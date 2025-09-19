@@ -3,8 +3,8 @@
 Combining technical skills and innovative thinking, I aim to create scalable, efficient, and user-friendly systems that address real-world challenges. My expertise lies in integrating modern technologies with robust processes to deliver excellence.
 
 ### TLDR;
-- 🎓 Master of Computer Science (MTI) candidate at Binus University  
-- 💼 IT Specialist at Bank Central Asia (BCA)  
+- 🎓 Master of Computer Science at Binus University  
+- 💼 IT Specialist at Bank Central Asia Tbk. (BCA)  
 - 🏅 Linux+ & AWS Solutions Architect Certified  
 - 🛠️ Skilled in Fullstack Development, DevOps, Cloud Architecture, UI/UX for Web Development, and Data Science  
 

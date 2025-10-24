@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Muhammad Rikhza Maulana
+# 👋 Hey.
 
 Combining technical skills and innovative thinking, I aim to create scalable, efficient, and user-friendly systems that address real-world challenges. My expertise lies in integrating modern technologies with robust processes to deliver excellence.
 
